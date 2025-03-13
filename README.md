@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0924sofia
+- 👋 Hi, I’m @sofiago
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React
 
